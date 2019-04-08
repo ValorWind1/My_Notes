@@ -2,7 +2,7 @@
 Queues: is basically a limited list. only allows data to be inserted from one end, and retrieved from the other.
 A special implementation of a list.
 
-This is a FIFO DTS(data structure), first value in first value out.
+This is a FIFO (data structure), first value in first value out.
 
 data pushed INTO the queue = enqueue
 data is RETRIEVED from the queue = dequeue
