@@ -17,7 +17,7 @@ Traversing tree : 3 ways Inorder traversal , Preorder Traversal , Postorder Trav
 
 -Inorder : Left node first , then root , then right  # Typically the best for binary search trees
 
--postorder : Left first , then right , then root
+-postorder : Left first , then right , then root.
 
 """
 

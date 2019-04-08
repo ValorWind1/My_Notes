@@ -9,7 +9,7 @@ data is RETRIEVED from the queue = dequeue
 
 
 Import things to remember : No ability to insert or retrieve from any other location from the list except from
-the data enqueue at front end, or data dequeue at back end .
+the data enqueue at front end, or data dequeue at back end ..
 
 """
 
